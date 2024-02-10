@@ -24,7 +24,8 @@ this repository contains my custom configuration for neofetch, a command-line ut
     ```
 
 
-2. optionally make a backup or rename the already present `config.conf` file
+2. optionally make a backup or rename the already present `config.conf` file:
+
 	<sub>backup the file like this</sub>
 	```bash
 	cp ~/.config/neofetch/config.conf ~/.config/neofetch/config.conf.old
